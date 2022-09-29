@@ -2,7 +2,7 @@
 
 Dashboard haciendo uso de API de FTX
 
-Desde aquel 31 de Octubre de 2008 a hoy no llegamos a los 14 años, pero ya hubo tanta historia en el mundo crypto, que ante tanta informacion nos es necesario tratar de segmentarla para poder lidar con ella.
+Desde aquel 31 de Octubre de 2008, que Satoshi Nakamoto dio nacimiento a Bitcoin, a hoy, no llegamos a los 14 años, pero ya hubo tanta historia en el mundo Crypto, que nos es necesario tratar de segmentarla para poder lidar con ella, y poder el mejor uso posible, ya sea para informarnos o tomar la decision de inversion.
 
 Aqui es donde a raiz de la propuesta de Trabajo Individual de la Academia Henry, en mi caso elegi como herramienta de visualizacon Power BI para realizar la analitica de datos y poder hacer frente a la tarea encomendada.
 
